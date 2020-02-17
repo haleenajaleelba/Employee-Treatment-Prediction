@@ -1,0 +1,7 @@
+flask
+flask-jwt-extended
+sqlite3
+flask-restful
+
+
+[(1, 'yugal.saluja@globallogic.com', 32, 'Male', 'India', 'No', 'No', 'Sometimes', 'More than 1000', 'No', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'NA', 'Yes', None), (2, 'kishore.patel@globallogic.com', 25, 'Male', 'India', 'No', 'No', 'Rarely', 'More than 1000', 'No', 'Yes', 'Yes', 'Yes', 'Yes', 'No', 'Yes', 'Somewhat easy', 'Yes', 'Yes', 'Yes', 'Some of them', 'No', 'Yes', 'Yes', 'No', 'NA', 'Yes', None), (3, 'vishnupriya.jayaraj@globallogic.com', 22, 'Female', 'India', 'No', 'No', 'Rarely', 'More than 1000', 'No', 'Yes', 'No', 'No', 'No', 'No', "Don't know", "Don't  know", 'No', 'No', 'Some of them', 'Some of them', 'No', 'No', "Don't know", 'No', 'NA', 'Yes', None)]
